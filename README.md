@@ -1,2 +1,2 @@
 # mybinder
-my action with https://mybinder.org/
+my action with [mybinder.org](https://mybinder.org/)
